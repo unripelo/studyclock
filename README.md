@@ -1,2 +1,2 @@
-# studyclock
-a timer for everything, ill just rename it 
+# timer
+a timer for everything, using () languages
